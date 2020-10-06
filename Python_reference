@@ -1,0 +1,32 @@
+Python Language reference.
+
+For some function named foo:
+
+def foo (parameters):
+    "func docstring"
+    return expression
+
+--Calling function foo with parameter--
+
+foo(parameter)
+
+Defining a variable in Python
+
+For some variable var:
+
+var = <data type>
+
+Data type assigned automatically.
+
+Declaring array in Python:  
+
+Arrays are defined as "lists" in python and can contain different data types.
+
+For some array name arr:
+
+arr = {1,2,3,4,5}
+
+For loop in python:
+
+for <identifier> in <list>
+    operation
