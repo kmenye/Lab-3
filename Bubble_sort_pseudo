@@ -1,0 +1,14 @@
+Psuedocode for Bubble Sort
+
+swap function (ptr a, ptr b)
+{
+    a = b
+    b = a
+}
+
+Bubble Sort Function
+{
+    for Ith item in array
+        if item at I is less than item at I+1
+        swap I and I+1
+}
